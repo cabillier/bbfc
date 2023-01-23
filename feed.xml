@@ -1,30 +1,81 @@
----
-layout: 
----
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>bbfc</title>
+    <link href="https://baptistmandaue.org/feed.xml" rel="self" />
+    <link href="https://baptistmandaue.org" />
+    <updated>2023-01-23T14:09:30+08:00</updated>
+    <author>
+        <name>Jerome Cabillon</name>
+    </author>
+    <id>https://baptistmandaue.org</id>
 
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
-      </item>
-    {% endfor %}
-  </channel>
-</rss>
+    <entry>
+        <title>The Good News</title>
+        <author>
+            <name>Jerome Cabillon</name>
+        </author>
+        <link href="https://baptistmandaue.org/the-good-news.html"/>
+        <id>https://baptistmandaue.org/the-good-news.html</id>
+
+        <updated>2023-01-23T14:09:30+08:00</updated>
+            <summary>
+                <![CDATA[
+                    HOW TO BE SURE OF HEAVEN AND KNOW IT! If you should die today where would you spend eternity? No one likes to think about death, but death comes to everyone. God tells us in His Word. And as it is appointed unto men once&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>HOW TO BE SURE OF HEAVEN AND KNOW IT!</strong><br>If you should die today where would you spend eternity?</p>
+<p>No one likes to think about death, but death comes to everyone. God tells us in His Word.</p>
+<p>And as it is appointed unto men once to die, but after this the judgment:" - Hebrews 9:27</p>
+<p>Since death is so certain, you must prepare to meet God.</p>
+<p>According to God's Word, you must spend eternity in one of two places, either in HEAVEN OR in HELL. And these shall go away into everlasting punishment: but the righteous into life eternal." - Matthew 25:46</p>
+<p>Every person born into this world inherited a sinful nature.</p>
+<p>...and were by nature the children of wrath, even as others.</p>
+<p>"Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:" - Romans 5:12</p>
+<p>"Behold, I was shapen in iniquity; and in sin did my mother conceive me." - Psalm 51:5</p>
+<p>"The heart is deceitful above all things, and desperately wicked: who can know it?" - Jeremiah 17:9</p>
+<p>This sinful nature produces all sorts of evil deeds.</p>
+<p>For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders, Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness: All these evil things come from within, and defile the man." - Mark 7:21-23</p>
+<p>You must admit you are a sinner. Admit it to yourself and admit it to God. There is absolutely no chance for you to be saved from hell unless you know that you are a sinner. God's Word declares it and you must believe it! Because you are a sinner, you are destined for hell for all eternity.<br>"For the wages of sin is death;..." - Romans 6:23</p>
+<p>"...and sin, when it is finished, bringeth forth death." - James 1:15</p>
+<p>There is nothing you can do to save yourself.</p>
+<p>You cannot be good enough.<br>"They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one." - Romans 3:12</p>
+<p>You cannot be saved by keeping the law. Joining the church and being baptized will not even help save you.</p>
+<p>"...for by the works of the law shall no flesh be justified." - Galatians 2:16</p>
+<p>You are helpless. You cannot saved yourself.</p>
+<p>Here is the GOOD NEWS of the Gospel.<br>Inspite of your sin. God loves you and has done everything necessary for your SALVATION.</p>
+<p>"For when we were yet without strength, in due time Christ died for the ungodly." - Romans 5:6<br>"For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:" - 1 Peter 3:18</p>
+<p>Just believing intellectually that you are sinner, that God loves you and that Christ died for you is not enough.</p>
+<p>You must apply this to yourself personally by repenting and receiving the Lord Jesus Christ as your own Saviour.<br>Repentance is "a change of mind" brought to your heart by the Holy Spirit through God's Word, it causes you to turn from your sins, dead religion and works to trust Christ alone.<br>"...except ye repent, ye shall all likewise perish." - Luke 13:3<br>"But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:" - John 1:12</p>
+<p>"...all men..." - Acts 17:30<br>Are commanded to repent therefore, all men can repent. Don't put this off - do it now!</p>
+<p>"(For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)" - 2 Corinthians 6:2</p>
+<p>"Seek ye the LORD while he may be found, call ye upon him while he is near:" - Isaiah 55:6</p>
+<p>"For whosoever shall call upon the name of the Lord shall be saved." - Romans 10:13<br>"...all men..." - Timothy 2:4,6 can be saved.</p>
+<p>Wherever you are right now, tell God that you are a lost sinner, ask Him to forgive you of your sins, and receive the Lord Jesus Christ as your Saviour. CLAIM SALVATION by FAITH.</p>
+<p>"For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast." - Ephesians 2:8-9<br>You may PRAY this simple prayer, meaning it with all your HEART.</p>
+<p>Dear Lord, I know that I am sinner, but I am sorry for my sins. I believe that the Lord Jesus died for me and rose again and with all my heart I turn from my sin and receive Him as my Saviour right now. Thank you, Lord, for saving me! Amen!<br>This is God's way of SALVATION according to His Word Many times men fail to keep their word, but God never fails to keep His Word! Take God at His Word, don't trust your feelings. "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you." - 1 Peter 1:25</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Statement of Faith</title>
+        <author>
+            <name>Jerome Cabillon</name>
+        </author>
+        <link href="https://baptistmandaue.org/statement-of-faith.html"/>
+        <id>https://baptistmandaue.org/statement-of-faith.html</id>
+
+        <updated>2023-01-23T10:49:31+08:00</updated>
+            <summary>
+                <![CDATA[
+                    We believe...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We believe...</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
